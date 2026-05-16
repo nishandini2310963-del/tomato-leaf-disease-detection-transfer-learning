@@ -41,6 +41,17 @@ The system is designed to support precision agriculture by enabling early diseas
 ## Dataset
 Dataset used:
 Tomato Leaf Disease Dataset
+## Dataset Information
+The dataset contains tomato leaf images belonging to multiple disease categories and healthy leaves.
+
+The images are organized into different folders based on disease type.
+
+Dataset Characteristics:
+- Multi-class image classification dataset
+- Contains healthy and diseased tomato leaves
+- Used for supervised deep learning training
+- Includes visually similar disease classes
+- Imbalanced class distribution handled using augmentation and oversampling
 
 Classes include:
 - Tomato Healthy
@@ -56,6 +67,7 @@ Classes include:
 
 Dataset Source:
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
 ## Data Preprocessing
 - Image resizing
 - Normalization
