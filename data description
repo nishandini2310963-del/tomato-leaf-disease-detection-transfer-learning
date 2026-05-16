@@ -1,0 +1,13 @@
+## Dataset Information
+The dataset contains tomato leaf images belonging to multiple disease categories and healthy leaves.
+
+The images are organized into different folders based on disease type.
+
+Dataset Characteristics:
+- Multi-class image classification dataset
+- Contains healthy and diseased tomato leaves
+- Used for supervised deep learning training
+- Includes visually similar disease classes
+- Imbalanced class distribution handled using augmentation and oversampling
+
+https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
